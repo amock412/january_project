@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my January Project Work
 
-You can use the [editor on GitHub](https://github.com/amock412/january_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As part of the Wellesley Data Collective January Project I focused on exploring data related to Wellesley College. I collected faculty data starting in 2012 explored faculty education as well as other information surrounding their positions and employement. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Overview
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amock412/january_project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This project includes scraped data files that were extracted from the Wellesley College website along with the analysis in form of Jupyter notebooks coded in Python. The code is accompanied with comments along the way to facilitate the reader to understand the different steps that went into cleaning and analyzing the data. 
