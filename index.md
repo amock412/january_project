@@ -13,7 +13,7 @@ This January Project was centered around exploring data from Wellesley College. 
 ## Data 
 The data was scraped from the <a href="https://www.wellesley.edu/provost/facultyroster">faculty roster</a> with the help of Selenium and later cleaned in Python.
 
-# Findings 
+## Findings 
 
 Examining the current faculty roster, the top universities faculty members visited included Harvard, Yale and Wellesley. 
 
