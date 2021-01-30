@@ -11,7 +11,7 @@ All files used to scrape and visualize data can be found here: (<a href="https:/
 This January Project was centered around exploring data from Wellesley College. I was interested in exploring course data and faculty data at Welelsley college. Having discovered a list of current faculty members I thought it would be interesting to gather mroe information on the faculty body as a whole.
 
 ## Data 
-The data was scraped from the faculty roster <a href="https://www.wellesley.edu/provost/facultyroster">faculty roster</a>) with the help of Selenium and later cleaned in Python.
+The data was scraped from the <a href="https://www.wellesley.edu/provost/facultyroster">faculty roster</a> with the help of Selenium and later cleaned in Python.
 
 # Findings 
 
