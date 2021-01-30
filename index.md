@@ -17,7 +17,9 @@ The data was scraped from the faculty roster ![link](https://www.wellesley.edu/p
 
 Examining the current faculty roster, the top universities faculty members visited included Harvard, Yale and Wellesley. 
 
+
 ![image](/top_unis.png)
+
 
 In addition we looking at the degrees that faculty obtained, one can see that because not all faculty members necessarily need a phd for teaching 
 (such as PE faculty or music faculty) the degrees obtained by faculty varies. 
