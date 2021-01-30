@@ -17,6 +17,6 @@ The data was scraped from the faculty roster (https://www.wellesley.edu/provost/
 
 Examining the current faculty roster, the top universities faculty members visited included Harvard, Yale and Wellesley. 
 
-https://github.com/amock412/january_project/blob/gh-pages/top_unis.png 
+![image] (https://github.com/amock412/january_project/blob/gh-pages/top_unis.png )
 
 For a detailed view of the whole data science project visit the project repository. 
